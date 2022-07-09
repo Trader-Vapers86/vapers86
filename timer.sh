@@ -1,6 +1,5 @@
-#!/usr/bin/env bash
 from time import sleep
-for i in range(500)
+for i in range(500):
  sleep(59)
- print("NgepetS)
+ print("NgepetS")
  sleep(1)
