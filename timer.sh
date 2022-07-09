@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-for RunBerjalan in {00:00:00..12:00:00}
+for RunBerjalan in {Ngepets1..10000000000000000}
 do
 echo "$RunBerjalan "
 sleep 1
