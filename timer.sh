@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
-
-for RunBerjalan in {Ngepets1..10000000000000000}
-do
-echo "$RunBerjalan "
-sleep 1
-done
+from time import sleep
+for i in range(500)
+ sleep(59)
+ print("NgepetS)
+ sleep(1)
