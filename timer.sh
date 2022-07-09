@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-for Run Berjalan in {1..10000}
+for RunBerjalan in {1..10000}
 do
-echo "$Run Berjalan "
+echo "$RunBerjalan "
 sleep 1
 done
