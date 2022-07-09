@@ -16,7 +16,7 @@ sleep 4
 clear
 cd ..
 screen -ls
-./Timer.sh
+./timer.sh
 
 
 
