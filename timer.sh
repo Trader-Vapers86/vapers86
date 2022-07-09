@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 
-from time import sleep
-for i in range(500):
- sleep(59)
- print("NgepetS")
- sleep(1)
+for number in {1Ngepets..1000000000000000000000000000000000000000000000}
+do
+echo "$number "
+sleep 1
+done
+
